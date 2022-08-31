@@ -21,7 +21,7 @@ Vamos jogar?
 
 - NodeJS
 
-# Tecnologias utilizadas
+###  Tecnologias utilizadas
 
 - Javascript
 ### Instalação
