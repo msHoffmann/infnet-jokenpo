@@ -20,6 +20,7 @@ Vamos jogar?
 ### Dependências
 
 - NodeJS
+- Prompt-sync
 
 ###  Tecnologias utilizadas
 
