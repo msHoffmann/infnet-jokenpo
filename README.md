@@ -28,7 +28,7 @@ Vamos jogar?
 
 Siga os passos a seguir para jogar:
 
-- [Clona o repositório ou faço o download do ZIP](https://github.com/msHoffmann/infnet-jokenpo)
+- [Clona o repositório ou faça o download do ZIP](https://github.com/msHoffmann/infnet-jokenpo)
 - Vá para o terminal e digite `npm install`
 - Continue no terminal e rode `node index.js`
 - Jogue no terminal!
