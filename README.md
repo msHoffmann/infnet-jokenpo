@@ -6,7 +6,10 @@
     <img src="images/jokenpo.png" alt="Jokenpo" />
   </a>
 
-Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre três possíveis itens: Pedra, Papel ou Tesoura. Vamos jogar?
+Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre três possíveis itens: Pedra, Papel ou Tesoura. 
+<br />
+Vamos jogar?
+</div>
 
 ### Regras:
 
@@ -18,6 +21,9 @@ Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre trê
 
 - NodeJS
 
+# Tecnologias utilizadas
+
+- Javascript
 ### Instalação
 
 Siga os passos a seguir para jogar:
